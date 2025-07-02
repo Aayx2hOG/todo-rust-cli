@@ -1,1 +1,1 @@
-/home/aayush/rust/projects/kaam/target/debug/libkaam.rlib: /home/aayush/rust/projects/kaam/src/lib.rs
+/home/aayush/github-projects/todo-rust-cli/target/debug/libkaam.rlib: /home/aayush/github-projects/todo-rust-cli/src/lib.rs
